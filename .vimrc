@@ -1,6 +1,7 @@
 set nocompatible              " be iMproved, required
 filetype off                  " required
 
+let g:go_version_warning = 0
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
 call vundle#begin()
