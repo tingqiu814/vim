@@ -1,0 +1,13 @@
+## 新机器安装软件
+1. chrome
+2. iterm2
+3. alfred
+4. spectacle
+5. xmind
+6. drag.io
+7. vscode
+8. goland
+9. golang 
+10. brew 
+11. tmux 
+12. vim 
