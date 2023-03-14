@@ -93,3 +93,5 @@ Plugin 'vim-airline/vim-airline'
 
 "
 Plugin 'tpope/vim-fugitive'
+
+syntax on
