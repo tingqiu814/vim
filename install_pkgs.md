@@ -1,13 +1,20 @@
 ## 新机器安装软件
 1. chrome
+  1. Vimium
+
 2. iterm2
 3. alfred
-4. spectacle
-5. xmind
-6. drag.io
-7. vscode
-8. goland
-9. golang 
-10. brew 
-11. tmux 
-12. vim 
+4. xxxxx
+5. spectacle
+6. xmind
+7. drag.io
+8. vscode
+9. goland
+10. golang 
+11. brew 
+12. tmux 
+13. vim
+14. snipaste
+telnet 
+htop 
+ohmyzsh
