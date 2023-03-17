@@ -18,3 +18,5 @@
 telnet 
 htop 
 ohmyzsh
+charles
+sequel ace
