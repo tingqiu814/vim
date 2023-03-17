@@ -20,3 +20,4 @@ htop
 ohmyzsh
 charles
 sequel ace
+switchhost
