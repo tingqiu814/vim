@@ -1,23 +1,23 @@
 ## 新机器安装软件
-1. chrome
-  1. Vimium
-
-2. iterm2
-3. alfred
-4. xxxxx
-5. spectacle
-6. xmind
-7. drag.io
-8. vscode
-9. goland
-10. golang 
-11. brew 
-12. tmux 
-13. vim
-14. snipaste
-telnet 
-htop 
-ohmyzsh
-charles
-sequel ace
-switchhost
+-  chrome
+  - Vimium
+- iterm2
+- alfred
+- xxxxx
+- spectacle
+- xmind
+- drag.io
+- vscode
+- goland
+- golang
+- brew
+- tmux
+- vim
+- snipaste
+- telnet
+- htop
+- ohmyzsh
+- charles
+- sequel ace
+- switchhost
+- [docker](#docker)
