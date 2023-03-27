@@ -21,3 +21,4 @@
 - sequel ace
 - switchhost
 - [docker](#docker)
+- ibar (#https://www.better365.cn/ibar.html?statId=67&bd_vid=10703743266812597819)
