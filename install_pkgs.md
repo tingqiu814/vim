@@ -3,6 +3,7 @@
   - Vimium
 - iterm2
 - alfred
+- 安装read [recent document](https://github.com/mpco/AlfredWorkflow-Recent-Documents/releases)
 - xxxxx
 - spectacle
 - xmind
