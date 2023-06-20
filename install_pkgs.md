@@ -24,3 +24,4 @@
 - [docker](#docker)
 - wireshark
 - [ibar](https://www.better365.cn/ibar.html?statId=67&bd_vid=10703743266812597819)
+docker run -d -p 8889:8889 freakchicken/kafka-ui-lite
