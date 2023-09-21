@@ -37,6 +37,7 @@ Plugin 'rking/ag.vim'
 " Plugin 'vim-scripts/indentpython.vim'
 
 " c-n NerdTree
+
 map <C-n> :NERDTreeToggle<CR>
 autocmd bufenter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
 
@@ -95,3 +96,6 @@ Plugin 'vim-airline/vim-airline'
 Plugin 'tpope/vim-fugitive'
 
 syntax on
+
+set background=dark
+" colorscheme solarized
