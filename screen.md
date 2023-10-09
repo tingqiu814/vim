@@ -12,5 +12,6 @@ screen命令
   C-a S 水平分割屏幕
   C-a d 退出当前session detach
 
+  C-a [ 进入翻页模式，vim翻页模式
   无法在session 内切换session
 ```
