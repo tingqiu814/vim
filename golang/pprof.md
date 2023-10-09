@@ -9,5 +9,12 @@
 ...
 
 采样： 
-curl http://localhost:6470/debug/pprof/profile?seconds=60 --output porfile.tar.gz
+curl http://localhost:6470/debug/pprof/profile?seconds=60 --output profile.tar.gz
+
+brew install graphviz
+不装不能用web看
+
+go tool pprof -http=:18080 profile.tar.gz
+
+
 ```
